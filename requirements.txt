@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-reportlab
-requests
-folium
-streamlit-folium
-geopy
